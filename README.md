@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HasnaeBOUZEKRAOUI
-- 🌱 I’m currently learning Programmation 
+- 🌱 I’m currently learning web development 
 
 
 <!---
